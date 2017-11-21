@@ -1,0 +1,8 @@
+﻿  Luminance.cpp
+Luminance.cpp(193): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 805 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Luminance.vcxproj -> C:\Users\Shell\Documents\Visual Studio 2017\Projects\Luminance\x64\Release\Luminance.exe
