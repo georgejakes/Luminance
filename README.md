@@ -15,3 +15,5 @@ Executable and other information:
 	Program can be run from the Command Line in Windows as: 
 		
 		Luminance <folder_path> <threads_count_for_execution>
+
+	Demo.PNG in the root folder contains a screenshot of the execution
