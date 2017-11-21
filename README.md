@@ -1,5 +1,5 @@
 # Luminance
-Lumianance was compiled with OpenCV-3.3.1, Release-x64
+Lumianance was compiled with OpenCV-3.3.1, Release-x64, OS: Windows 10
 
 For compiling from source: 
 
